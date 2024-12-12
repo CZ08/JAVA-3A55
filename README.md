@@ -105,7 +105,7 @@ Le projet est organisé en plusieurs modules correspondant aux Prosits, chacun i
 ### Étapes
 1. Clonez ce dépôt :  
    ```bash
-   git clone https://github.com/votre-utilisateur/prosit-gestion.git
+   git clone https://github.com/CZ08/JAVA-3A55
    cd prosit-gestion
 
 ### Auteurs
